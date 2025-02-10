@@ -1,0 +1,33 @@
+# Ignore all folders except 'app/'
+scrapper/
+scrapped_data/
+model_build/
+
+# Ignore Python cache and compiled files
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Ignore virtual environments
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Rest of it
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.git
+.gitignore
+.mypy_cache
+.pytest_cache
+.hypothesis
+.idea
