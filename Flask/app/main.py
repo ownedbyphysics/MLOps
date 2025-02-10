@@ -10,8 +10,8 @@ LANGUAGE_DICT = {
     "en": "English",
     "fr": "French",
     "es": "Spanish",
-    "gr": "Greek",
-    "ger": "German",
+    "el": "Greek",
+    "ar": "Arabic",
     "it": "Italian",
     "pt": "Portuguese",
     "nl": "Dutch",
@@ -21,7 +21,7 @@ LANGUAGE_DICT = {
     "ru": "Russian",
     "ta": "Tamil",
     "hi": "Hindi",
-    "hi": "Malayalam",
+    "ml": "Malayalam",
     None: ' '
 }
 

@@ -18,5 +18,5 @@ def predict_pipeline(text):
     text = re.sub(r'[[]]', ' ', text)
     text = text.lower()
     pred = model.predict([text])
-    print(pred)
+    print(le.inverse_transform(pred)[0])
     return le.inverse_transform(pred)[0]  #classes[pred[0]]
