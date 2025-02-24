@@ -4,6 +4,9 @@ In this repo I am creating creating different projects mostly related to ML depl
 
 Includes:
 ✅ FastAPI
+
 ✅ Flask
+
 ✅ MLFLow
+
 ✅ API Security
