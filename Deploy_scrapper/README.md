@@ -4,13 +4,13 @@ This project creates a basic scraper to extract texts from Wikipedia in multiple
 
 🎯 Features
 
-📝 Scrapes text data from Wikipedia
+Scrapes text data from Wikipedia
 
-💬 Trains a Naive-Bayes model for language detection
+Trains a Naive-Bayes model for language detection
 
-🌍 Detects multiple languages
+Detects multiple languages
 
-🧪 Experiments with Docker, GitHub Actions, Flask, and FastAPI for deployment and API creation
+Experiments with Docker, GitHub Actions, Flask, and FastAPI for deployment and API creation
 
 
 ❗ Notes
